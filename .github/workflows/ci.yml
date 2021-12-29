@@ -12,4 +12,4 @@ jobs:
         with:
           python-version: 3.x
       - run: pip install mkdocs-material mkdocs-material-extensions Pygments pymdown-extensions PyYAML Markdown MarkupSafe
-      - run: mkdocs gh-deploy --config-file ./docs/mkdocs.yml --force
+      - run: mkdocs gh-deploy --force

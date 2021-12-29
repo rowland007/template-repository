@@ -2,7 +2,7 @@
 site_name: 'Template Repository'
 site_description: 'Used to create new project sites with automated documentation from Mkdocs'
 site_author: 'Randy Rowland'
-site_url: 'https://rowland007.github.io/template-repository/docs/'
+site_url: 'https://rowland007.github.io/template-repository/'
 
 # Repository
 repo_name: 'Randy Rowland'
