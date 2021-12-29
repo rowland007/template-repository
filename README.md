@@ -1,2 +1,3 @@
-# template-repository
-This repo is used as a template and sets the basic structure of projects.
+# TODO
+
+Work In Progress but checkout the docs website at [https://rowland007.github.io/template-repository/](https://rowland007.github.io/template-repository/)
