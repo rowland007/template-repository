@@ -26,8 +26,8 @@ This repository initializes two branches, `master` and `develop`.
 
 # Benefits
 
-:ballot_box_with_check: Spend less time repeating code
-:ballot_box_with_check: Focus on building new things
-:ballot_box_with_check: Less manual configuration
-:ballot_box_with_check: Sharing boilerplate code across codebase
-:ballot_box_with_check: Every template has a new url endpoint called **/generate**
+:white_check_mark: Spend less time repeating code   
+:white_check_mark: Focus on building new things   
+:white_check_mark: Less manual configuration   
+:white_check_mark: Sharing boilerplate code across codebase   
+:white_check_mark: Every template has a new url endpoint called **/generate**   
