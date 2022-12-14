@@ -10,6 +10,18 @@ A repository template copies all of its settings and content over to newly creat
 
 # Configuration
 
+## Settings
+
+After you've cloned the *new* repo, go into `Settings` and on the left handside, look for `Pages`. Make your settings look like the following:
+
+### Source
+
+`Deploy from a branch`
+
+### Branch
+
+`gh-pages`  :file_folder:`/(root)`
+
 ## Files
 
 This repository includes the following files
